@@ -1,0 +1,22 @@
+{
+  "name": "chuta-ou-passa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hinname/chuta-ou-passa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hinname/chuta-ou-passa/issues"
+  },
+  "homepage": "https://github.com/hinname/chuta-ou-passa#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
