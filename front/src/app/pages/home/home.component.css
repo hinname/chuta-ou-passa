@@ -1,0 +1,43 @@
+header {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Bungee';
+  color: #F6CF00;
+  padding-top: 59px;
+  font-size: 3.5rem;
+  line-height: 4.5rem;
+}
+
+ img {
+  width: 100%;
+}
+
+.image {
+  pointer-events: none;
+  height: 100%;
+  position: absolute;
+  width: 100%;
+  overflow: hidden;
+  z-index: -1;
+}
+
+
+.home {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+footer {
+  margin-bottom: 3rem;
+  font-family: 'Baloo Chettan 2';
+}
+
+.btn {
+  color: #020128;
+  font-size: 1.5rem;
+  background: #F6EC00;
+}
